@@ -1,6 +1,8 @@
 # altaf-portfolio
 my portfolio
 
+https://altaf-portfolio.netlify.app/
+
 npm install --save gh-pages
 
 
