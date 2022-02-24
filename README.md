@@ -3,6 +3,9 @@ my portfolio
 
 https://altaf-portfolio.netlify.app/
 ---------------------------------------------------------------------------------------------------
+# Folder Structure :open_file_folder:
+
+```bash
 ├── LICENSE   
 ├── README.md        
 ├── package-lock.json
@@ -125,6 +128,7 @@ https://altaf-portfolio.netlify.app/
 │       ├── ScrollToTop.js
 │       └── skillsImage.js
 └── yarn.lock
+```
 
 
 
