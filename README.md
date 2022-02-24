@@ -3,6 +3,46 @@ my portfolio
 
 https://altaf-portfolio.netlify.app/
 ---------------------------------------------------------------------------------------------------
+
+<br /><br />
+
+
+# Sections :bookmark:
+- HOME
+- ABOUT
+- RESUME
+    - EDUCATION
+    - SKILLS
+    - EXPERIENCE
+    - PROJECTS 
+    - Achievements <br />
+- SERVICES 
+    - TESTIMONIALS <br />
+- BLOG
+- CONTACTS 
+
+<br /><br />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Folder Structure :open_file_folder:
 
 ```bash
