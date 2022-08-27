@@ -178,10 +178,11 @@
     display: none;
   }
   .landing--container-right {
+    overflow: auto;
     box-sizing: border-box;
     padding: 0 2rem;
     flex: initial;
-    height: 70%;
+    /* height: 70%; */
     width: 100%;
     background-color: #eaeaea;
     align-items: center;
